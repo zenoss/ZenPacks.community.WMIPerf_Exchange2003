@@ -5,7 +5,7 @@
 NAME = "ZenPacks.community.WMIPerf_Exchange2003"
 VERSION = "2.0.2"
 AUTHOR = "Johan Keskitalo & Andreas Falk, R.Esteve"
-LICENSE = ""
+LICENSE = "GPLv2"
 NAMESPACE_PACKAGES = ['ZenPacks', 'ZenPacks.community']
 PACKAGES = ['ZenPacks', 'ZenPacks.community', 'ZenPacks.community.WMIPerf_Exchange2003']
 INSTALL_REQUIRES = ['ZenPacks.community.WMIDataSource>=2.7']
